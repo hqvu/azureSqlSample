@@ -2,7 +2,7 @@
 using Microsoft.Azure.Management.Sql.Models;
 using System;
 
-namespace Test
+namespace TestApp
 {
     class Program
     {
